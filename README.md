@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🧑‍🎓 I'm currently a Msc student in Data Science and AI for Creative Industries at UAL Creative Computing Institute!
+- 👯 I’m looking to collaborate on AI-realated creative coding projects.
+- ⚡ Fun fact: I am also a photographer 📷 especially fond of analogue photography and a powerlifter 💪.
