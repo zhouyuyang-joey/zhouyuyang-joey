@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![github-page-gif](https://github.com/user-attachments/assets/be651831-9f7d-4b16-8e3a-d072c9f2378d)
+
+
 - 🧑‍🎓 I'm currently a Msc student in Data Science and AI for Creative Industries at UAL Creative Computing Institute!
 - 👯 I’m looking to collaborate on AI-realated creative coding projects.
 - ⚡ Fun fact: I am also a photographer 📷 especially fond of analogue photography and a powerlifter 💪.
