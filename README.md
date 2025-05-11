@@ -9,7 +9,7 @@
 
 > 👴🏻 mini_olde (to be released): A fine-tuned LLM which answer questions using a literate, old-school English style.
 
-> 🙋 Think-like-LLM (to be released): A quiz game that lets players guess LLM's predicted token.
+> 🙋 Think-Like-LLM (to be released): A quiz game that lets players guess LLM's predicted token.
 
 > Check out more projects by visiting my [website](https://zhouyuyangjoey.com/).
 
